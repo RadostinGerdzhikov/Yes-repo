@@ -1,1 +1,2 @@
 Hello from TorotiseGit and from GitBash!
+"Updating with Bash…"
